@@ -1,7 +1,7 @@
 {
   "name": "bajaj-challenge",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "bfhl.js",
   "type": "module",
 
   "scripts": {
