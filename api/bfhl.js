@@ -1,5 +1,5 @@
 export default function handler(req, res) {
-  const USER_ID = "your_name_ddmmyyyy";
+  const USER_ID = "yourname_ddmmyyyy";
 
   if (req.method === 'POST') {
     const { numbers } = req.body;
@@ -33,5 +33,5 @@ export default function handler(req, res) {
     });
   }
 
-  res.status(405).end(); // Method Not Allowed
+  res.status(405).end();
 }
