@@ -1,13 +1,6 @@
 {
   "name": "bajaj-challenge",
   "version": "1.0.0",
-  "main": "bfhl.js",
-  "type": "module",
-
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+  "type": "module"
 }
+
